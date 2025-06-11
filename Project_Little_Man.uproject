@@ -55,6 +55,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "MovieRenderPipeline",
+			"Enabled": true
 		}
 	]
 }
